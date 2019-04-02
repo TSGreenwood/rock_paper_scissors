@@ -5,3 +5,7 @@ oop_rock_paper_scissors-checkpoint.ipynb
 __pycache__/
 *.pyc
 *.swp
+.gitignore
+.git
+..
+.
