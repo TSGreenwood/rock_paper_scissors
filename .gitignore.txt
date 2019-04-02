@@ -1,0 +1,7 @@
+Untitled-checkpoint.ipynb	code class and function	13 minutes ago
+Untitled1-checkpoint.ipynb	code class and function	13 minutes ago
+oop_rock_paper_scissors-checkpoint.ipynb
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.swp
